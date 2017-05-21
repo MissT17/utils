@@ -1,0 +1,12 @@
+[user]
+	name = <account_name>
+	email = <email>
+[github]
+	user = <user>
+	token = <token>
+[color]
+	ui = auto
+[merge]
+	conflictstyle = diff3
+[core]
+	editor = code --wait		
